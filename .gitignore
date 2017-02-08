@@ -1,0 +1,13 @@
+*.user
+
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/packages
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/.vs
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/bin
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/obj
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/csx
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/ecf
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/rcf
+
+
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/AzureMultipleDeploy.WebRole/bin
+AzureMultipleDeploy/AzureMultipleDeploy.CloudService/AzureMultipleDeploy.WebRole/obj
